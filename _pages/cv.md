@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S.E in Mechanical Engineering and Economics, Duke University, 2007
+* M.S. in Data Science, New York University, 2021 (expected)
 
 Work experience
 ======
