@@ -12,4 +12,4 @@ I am a Masters student at the [Center for Data Science](https://cds.nyu.edu/abou
 
 Teaching
 ======
-Test
+I am a Teaching Assistant for DS-GA 1002: Probability and Statistics at CDS, Fall 2020.
