@@ -26,6 +26,6 @@ Talks
 Teaching
 ======
 + **DS-GA 1002: Probability and Statistics**, NYU Center for Data Science, Fall 2020. Section Leader.
-[Course website, 2017](https://cims.nyu.edu/~cfgranda/pages/DSGA1002_fall17/index.html)
+[2017 Course website](https://cims.nyu.edu/~cfgranda/pages/DSGA1002_fall17/index.html)
 
 
