@@ -20,11 +20,12 @@ Publications
 
 Talks
 ======
-+ Michael Stanley, 2020. **Structured Modeling of LiDAR Point Clouds.** *Talk at Machine Learning Symposium, November 11, 2020, hosted by [Multiscale Machine Learning Sandbox](https://multiscale-sandbox.github.io/).
++ Michael Stanley, 2020. **Structured Modeling of LiDAR Point Clouds.** *Talk at Machine Learning Symposium, November 11, 2020, hosted by [Multiscale Machine Learning Sandbox](https://multiscale-sandbox.github.io/).*
 [Slides](https://mihamerstan.github.io/files/Structured_modeling_of_LiDAR_point_clouds.pdf)
 
 Teaching
 ======
 + **DS-GA 1002: Probability and Statistics**, NYU Center for Data Science, Fall 2020. Section Leader.
+[Course website, 2017](https://cims.nyu.edu/~cfgranda/pages/DSGA1002_fall17/index.html)
 
 
