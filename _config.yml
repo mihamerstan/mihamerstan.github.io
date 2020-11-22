@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Michael Stanley"
-  avatar           : "profile.png"
+  avatar           : "me.jpg"
   bio              : "2nd year masters student at NYU Center for Data Science."
   location         : "Brooklyn, New York"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=-Pfn5QUAAAAJ&hl=en&oi=sra"
-  email            : "michael.stanley at nyu.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "michael.stanley@nyu.edu"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/michael-stanley-659a1aa/"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
