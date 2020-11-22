@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Michael Stanley"
+excerpt: "Michael Stanley"
 author_profile: true
 redirect_from: 
   - /about/
