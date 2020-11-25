@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Masters student at the [Center for Data Science](https://cds.nyu.edu/about/) at New York University. I am applying to Ph.D. programs for Fall 2021. I am a researcher and team leader in the [Urban Modeling Group](https://wp.nyu.edu/urbanmodeling/) under [Prof. Debra Laefer](https://engineering.nyu.edu/faculty/debra-laefer) and investigate inverse problems under [Prof. Carlos Fernandez-Granda](https://cims.nyu.edu/~cfgranda/). My specific research interests are spatial data, machine learning, inverse problems, and the intersections thereof.
+I am a Masters student at the [Center for Data Science](https://cds.nyu.edu/about/) at New York University. I am applying to Ph.D. programs for Fall 2021. I am a researcher and team leader in the [Urban Modeling Group](https://wp.nyu.edu/urbanmodeling/) under [Prof. Debra Laefer](https://engineering.nyu.edu/faculty/debra-laefer) and investigate inverse problems under [Prof. Carlos Fernandez-Granda](https://cims.nyu.edu/~cfgranda/). My specific research interests are spatial data, machine learning, inverse problems, and the intersections thereof.  Here is my [CV](https://mihamerstan.github.io/files/Michael_Stanley_CV.pdf).
 
 Publications
 ======
