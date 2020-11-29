@@ -12,7 +12,7 @@ I am a Masters student at the [Center for Data Science](https://cds.nyu.edu/abou
 
 Publications
 ======
-+ Michael Stanley and Debra Laefer, 2020. **Metrics for Aerial, Urban LiDAR Point Clouds.** *Under Review*
++ Michael Stanley and Debra Laefer, 2020. **Metrics for Aerial, Urban LiDAR Point Clouds.** *Conditionally Accepted, ISPRS Journal of Photogrammetry and Remote Sensing*
 [Paper](https://arxiv.org/abs/2010.09951)
 
 + Michael Stanley, 2007. **High Frequency Jump Characteristics of Financial Asset Prices.** *Duke Journal of Economics, Symposium Edition 2007.*
