@@ -20,7 +20,7 @@ Publications
 
 Talks
 ======
-+ Michael Stanley and Chuan Chen, 2020. **Image Denoising with General Adversarial Networks**. *NYU Center for Data Science Research Conference, December 11, 2020.* [Slides](https://mihamerstan.github.io/files/NYU CDS Research Conference slides.pdf)
++ Michael Stanley and Chuan Chen, 2020. **Image Denoising with General Adversarial Networks**. *NYU Center for Data Science Research Conference, December 11, 2020.* [Slides](https://mihamerstan.github.io/files/NYU_CDS_Research_Conference_slides.pdf)
 
 + Michael Stanley, 2020. **Structured Modeling of LiDAR Point Clouds.** *Talk at Machine Learning Symposium, November 11, 2020, hosted by [Multiscale Machine Learning Sandbox](https://multiscale-sandbox.github.io/).*
 [Slides](https://mihamerstan.github.io/files/Structured_modeling_of_LiDAR_point_clouds.pdf)
