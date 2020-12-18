@@ -20,7 +20,7 @@ Publications
 
 Talks
 ======
-+ Michael Stanley and Chuan Chen, 2020. **Image Denoising with General Adversarial Networks**. *NYU Center for Data Science Research Conference, December 11, 2020.* [Draft Paper](https://mihamerstan.github.io/files/GAN_for_EM_Image_Denoising.pdf) 
++ Michael Stanley and Chuan Chen, 2020. **Image Denoising with General Adversarial Networks**. *NYU Center for Data Science Research Conference, December 11, 2020.* [Draft Paper](https://mihamerstan.github.io/files/GAN_for_EM_Image_Denoising.pdf),  
 [Slides](https://mihamerstan.github.io/files/NYU_CDS_Research_Conference_slides.pdf)
 
 + Michael Stanley, 2020. **Structured Modeling of LiDAR Point Clouds.** *Talk at Machine Learning Symposium, November 11, 2020, hosted by [Multiscale Machine Learning Sandbox](https://multiscale-sandbox.github.io/).*
@@ -32,3 +32,6 @@ Teaching
 [2017 Course website](https://cims.nyu.edu/~cfgranda/pages/DSGA1002_fall17/index.html)
 
 
+Fun
+======
++ **The Minimalist Cocktail Map**. My wife and I created a map of cocktails you can make with a small number of bottles [Medium post](https://medium.com/@jecowgill/ten-bottles-thirty-destinations-882d43cc83b). The drinks are laid out based on the first two principal components over 30+ features.  Design by [Susan Taylor Studios](https://susantaylorstudios.com/).
