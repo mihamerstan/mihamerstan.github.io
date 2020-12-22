@@ -1,7 +1,7 @@
 	---
 layout: post
-title:  "Metrics for Aerial, Urban LiDAR Point Clouds"
-date:   2020-12-21 02:21:59 +00:00
+title: "Metrics for Aerial, Urban LiDAR Point Clouds"
+date: 2020-10-01 02:21:59 +00:00
 image: /images/metrics_lidar.png
 categories: research
 author: "Michael Stanley"
