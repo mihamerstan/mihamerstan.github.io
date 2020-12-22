@@ -8,4 +8,4 @@ authors: "<strong>Michael Stanley</strong>"
 venue: "Duke Journal of Economics, Symposium Edition August"
 paper: https://sites.duke.edu/djepapers/files/2016/10/Stanley.pdf
 ---
-Designing a deep neural network for filling missing points in aerial LiDAR data that takes advantage of the structured nature of aerial LiDAR collection to directly process otherwise unordered point clouds. 
+Statistical detection method for jumps in high-frequency finance. Paper studies the nature of these jumps: the correlation of jumps across assets; the occurrence of jumps in indices when no jumps occur in underlying assets; the relationship between real-world events and jumps; and the autocorrelation of jumps.
