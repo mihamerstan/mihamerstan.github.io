@@ -3,7 +3,7 @@ layout: post
 title:  "The Minimalist Cocktail Map"
 date:   2020-06-01 01:21:59 +00:00
 image: /images/cocktail_map.png
-categories: Fun
+categories: Misc
 authors: "<strong>Michael Stanley</strong>, Jean Ellen Cowgill"
 medium: https://medium.com/@jecowgill/ten-bottles-thirty-destinations-882d43cc83b
 ---

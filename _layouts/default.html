@@ -169,9 +169,9 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
-              <h2>Fun Projects</h2>
-              <!-- <p> These include coursework, side projects and unpublished research work. 
-              </p> -->
+              <h2>Miscellaneous Projects</h2>
+              <p> A patent and some cocktail data vizualization. 
+              </p>
             </td>
           </tr>
         </table>
@@ -179,7 +179,7 @@
 
           {% for post in site.posts %}
           {% for cat in post.categories %}
-          {% if cat == 'Fun' %}
+          {% if cat == 'Misc' %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
