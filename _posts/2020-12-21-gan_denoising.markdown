@@ -4,7 +4,6 @@ title:  "Image Denoising with General Adversarial Networks"
 date:   2020-12-21 01:21:59 +00:00
 image: /images/gan_denoise.png
 categories: research
-author: "Michael Stanley"
 authors: "<strong>Michael Stanley</strong>, Chuan Chen"
 venue: "NYU Center for Data Science Research Conference, December 11"
 paper: /pdfs/GAN_for_EM_Image_Denoising.pdf
