@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "The Minimalist Cocktail Map"
+title:  "US Patent 10,348,758"
 date:   2019-07-09 01:21:59 +00:00
 image: /images/patent_image.png
 categories: Misc
 authors: "Timothy Holl, <strong>Michael Stanley</strong>, Russell Bauder"
 patent: /pdfs/Patent_US10348758B1.pdf
 ---
-A user interface design patent from the product Anomaly Detection for Industrial Control Systems, launched while at Symantec. The concept was displaying alerts in various subnets within a highly segmented, hierarchical ICS system.
+Patent title: <i>Systems and Methods for Providing Interfaces For Visualizing Threats Within Networked Control Systems.</i> A user interface design patent from the product Anomaly Detection for Industrial Control Systems, launched while at Symantec. The concept was displaying alerts in various subnets within a highly segmented, hierarchical ICS system.
