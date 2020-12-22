@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Metrics for Aerial, Urban LiDAR Point Clouds"
-date: 2020-10-01 02:21:59 +00:00
+date: 2020-12-24 02:21:59 +00:00
 image: /images/metrics_lidar.png
 categories: research
 authors: "<strong>Michael Stanley</strong>, Debra Laefer"
