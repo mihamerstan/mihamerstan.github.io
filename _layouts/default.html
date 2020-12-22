@@ -178,7 +178,7 @@
 
           {% for post in site.posts %}
           {% for cat in post.categories %}
-          {% if cat == 'Fun' %}
+          {% if cat == 'Intel' %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
@@ -200,8 +200,8 @@
               {% if post.patent %}
               <a href="{{post.patent}}">patent</a> /
               {% endif %}
-              {% if post.patent2 %}
-              <a href="{{post.patent2}}">patent #2</a> /
+              {% if post.medium %}
+              <a href="{{post.medium}}">medium post</a> /
               {% endif %}
               {% if post.patent3 %}
               <a href="{{post.patent3}}">patent #3</a> /
