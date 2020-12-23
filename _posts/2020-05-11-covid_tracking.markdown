@@ -4,7 +4,7 @@ title:  "Predicting year-over-year Change in Foot Traffic Due to COVID-19"
 date:   2020-05-11 01:21:59 +00:00
 image: /images/covid_tracking.png
 categories: class
-venue: "Class Project, DS-GA 1003: Machine Learning"
+venue: "DS-GA 1003: Machine Learning"
 authors: "Tamar Novetsky*, Alene Rhea*, <strong>Michael Stanley</strong>*"
 paper: /pdfs/Predicting_yoy_change_in_foot_traffic_due_to_COVID19.pdf
 ---
