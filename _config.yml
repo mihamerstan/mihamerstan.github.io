@@ -75,8 +75,6 @@ kramdown:
 sass:
   style: :compressed # You might prefer to minify using :compressed
 
-# Google Analytics
-google_analytics: G-74BYHCCGDD
 
 # Use the following plug-ins
 plugins:
