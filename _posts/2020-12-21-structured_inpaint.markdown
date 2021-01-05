@@ -8,5 +8,6 @@ venue: "Machine Learning Symposium, November 11"
 authors: "<strong>Michael Stanley</strong>, Debra Laefer"
 subtitle: ""
 slides: /pdfs/Structured_modeling_of_LiDAR_point_clouds.pdf
+code: https://github.com/mihamerstan/lidar_ordered_points
 ---
 Designing a deep neural network for filling missing points in aerial LiDAR data that takes advantage of the structured nature of aerial LiDAR collection to directly process otherwise unordered point clouds. 
