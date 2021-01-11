@@ -102,6 +102,9 @@
               {% if post.code %}
               <a href="{{post.code}}">code</a> /
               {% endif %}
+              {% if post.journal_info %}
+              <a href="{{post.journal_info}}">journal info</a> /
+              {% endif %}
               <p></p>
               {{ post.excerpt }}
             </td>
