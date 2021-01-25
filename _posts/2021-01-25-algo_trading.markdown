@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Machine Learning Framework for Algorithmic Trading"
+title:  "quantiacs-ml: An ML Framework for Algorithmic Trading"
 date:   2021-01-25 01:21:59 +00:00
 image: /images/algo.png
 categories: Misc
