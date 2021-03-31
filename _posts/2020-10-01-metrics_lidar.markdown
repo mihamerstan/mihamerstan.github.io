@@ -5,8 +5,8 @@ date: 2020-12-24 02:21:59 +00:00
 image: /images/metrics_lidar.png
 categories: research
 authors: "<strong>Michael Stanley</strong>, Debra Laefer"
-venue: "ISPRS Journal of Photogrammetry and Remote Sensing (<strong>Accepted</strong>, awaiting publication)"
-arxiv: https://arxiv.org/abs/2010.09951
+venue: "ISPRS Journal of Photogrammetry and Remote Sensing, Vol 175, May 2021, pp 268-281."
+paper: https://authors.elsevier.com/c/1cqOc3I9x1fKkb
 code: https://github.com/mihamerstan/lidar_fwf/
 journal_info: https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing
 ---
