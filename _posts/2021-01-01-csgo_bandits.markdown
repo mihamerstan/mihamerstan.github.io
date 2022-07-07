@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Metrics for Aerial, Urban LiDAR Point Clouds"
-date: 2020-12-24 02:21:59 +00:00
-image: /images/metrics_lidar.png
+title: "Bandit Modeling of Map Selection in Counter-Strike: Global Offensive"
+date: 2021-01-01 02:21:59 +00:00
+image: /images/csgo.png
 categories: research
-authors: "<strong>Michael Stanley</strong>, Debra Laefer"
-venue: "ISPRS Journal of Photogrammetry and Remote Sensing, Vol 175, May 2021, pp 268-281."
-paper: https://www.sciencedirect.com/science/article/abs/pii/S0924271621000101
-code: https://github.com/mihamerstan/lidar_fwf/
-journal_info: https://www.journals.elsevier.com/isprs-journal-of-photogrammetry-and-remote-sensing
+authors: "Guido Petri*, <strong>Michael Stanley*</strong>, Alec Hon*, Alex Dong*, Peter Xenopoulos, Claudio Silva"
+venue: "AI for Sports Analytics Workshop (AISA) at International Joint Conference on Artificial Intelligence (IJCAI 2021)"
+paper: https://drive.google.com/file/d/1VjpzBfP58TmxtA6zJ6xegsUzeIVfDOVE/view
+journal_info: https://sites.google.com/view/ijcai-aisa-2021/home?authuser=0
 ---
-This paper introduces five new density and accuracy metrics for aerial point clouds that address the complexity and objectives of modern, dense laser scans of urban scenes. 
+This paper quantifies and improves upon inefficiencies in the map selection process in e-sports, specifically Counter-Strike Global Offensive.
